@@ -1,0 +1,23 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+.navbar {
+	background-color:#ffffff !important;
+	font-family: 'Montserrat', sans-serif;
+}
+.main{
+	background-color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+}
+body {
+	background-color:#EABF88;
+}
+.navbar-brand{
+display: inline-block;
+padding-top: .3125rem;
+padding-bottom: .3125rem;
+margin-left:.3125px;
+font-size: 1.25rem;
+line-height: inherit;
+white-space: nowrap;
+font-family: 'Montserrat', sans-serif;
+}
+
