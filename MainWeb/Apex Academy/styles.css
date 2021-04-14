@@ -1,0 +1,199 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+element.style{
+	overflow-x:hidden;
+}
+.indent{
+	color:#F1F1F1 !important;
+}
+.text-center {
+	text-align: center!important;
+}
+.ml-3{
+	margin-right: 1rem!important;
+}
+section{
+	display: block;
+}
+*{
+	box-sizing: border-box;
+}
+.headtitle{
+	margin:auto;
+	font-family: 'Roboto Slab', serif;
+}
+.bold {
+	font-weight: 900;
+  }
+.welcome{
+	margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.nav-item{
+	font-family: 'Ubuntu', sans-serif !important;
+}
+.navbar {
+	background-color:#F1F1F1 !important;
+	font-family: 'Roboto Slab', serif;
+}
+.meet-the-tutors{
+	background-color:rgb(236, 236, 236);
+}
+.box-shadow{
+	box-shadow: 5px 5px 3px 1px #b3b3b3;
+}
+.ben-img{
+	float:left;
+	margin:5px;
+}
+.ben-text{
+	margin:20px;
+	text-align:justify;
+}
+.ben{
+	width:800px;
+	height:auto;
+	display:inline-block;
+	margin:20px;	
+}
+.allen{
+	width:800px;
+	height:auto;
+	margin:20px;
+	float:right;
+}
+.quotes{
+	background-color:rgb(230, 230, 230);
+}
+.about{
+width:750px;
+margin:auto;
+text-align: center;
+}
+.carousel-indicators{
+	margin-top:auto;
+}
+.main{
+	background-color:#F1F1F1;
+	font-family: 'Playfair Display', serif;
+}
+
+
+.navbar-brand{
+display: inline-block;
+font-size: 1.25rem;
+line-height: inherit;
+white-space: nowrap;
+font-family: 'Montserrat';
+}
+.slideshow{
+	margin:auto;
+	height:150px;
+	width:200px;
+}
+.class-box-new{
+	float: right;
+	width: 200px;
+	padding: 10px;
+	color: #79C5C8 !important;
+}
+.image{
+	margin-left:3cm;
+}
+div{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.center {
+	margin: auto !important;
+	width: 50% !important;
+	text-align: center !important;
+  }
+  .text-black {
+	  color:black;
+  }
+  
+  img.resize{
+    width:60px; /* you can use % */
+    height: auto;
+}
+  a.button1{
+	display:inline-block;
+	padding:0.35em 1.2em;
+	margin-left:50px;
+	border:0.1em solid #b6b6b6;
+	border-radius:0.12em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:#000000;
+	text-align:center;
+	transition: all 0.2s;
+	}
+	a.button1:hover{
+	color:#ffffff;
+	background-color:#FFFFFF;
+	@media all and (max-width:30em){
+	a.button1{
+	display:block;
+	}}}
+	a.button2{
+		display:inline-block;
+		padding:0.35em 1.2em;
+		margin-left:50px;
+		
+		border-radius:0.12em;
+		box-sizing: border-box;
+		text-decoration:none;
+		font-family:'Roboto',sans-serif;
+		font-weight:300;
+		color:#000000;
+		text-align:center;
+		transition: all 0.2s;
+		}
+		a.button2:hover{
+		color:#b4b4b4;
+		
+		@media all and (max-width:30em){
+		a.button1{
+		display:block;
+		}}}
+	.slides{
+		width:1550px;
+		height:auto;
+		margin:auto;
+	}
+	.header{
+		margin-top:100px;
+	}
+.navbar-left{
+	position:absolute;
+	right:100px;
+}
+.left{
+	position:absolute !important;
+	left:150px !important;
+}
+.almost{
+	left:75%;
+}
+.home{
+	position:absolute !important;
+	left:350px !important;
+	font-family: 'Ubuntu', serif !important;
+}
+.meet{
+	position:absolute !important;
+	left:450px !important;
+	font-family: 'Ubuntu', serif !important;
+}
+.quote{
+	position:absolute !important;
+	left:650px !important;
+	font-family: 'Ubuntu', serif !important;
+}
+.copyright{
+	text-align:center;
+	background-color:#d4d4d4
+}
